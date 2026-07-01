@@ -1,3 +1,9 @@
 node_modules/
-venv/
-.env
+dist/
+backend/venv/
+backend/instance/
+backend/*.db
+backend/__pycache__/
+**/__pycache__/
+.pytest_cache/
+backend/.pytest_cache/
